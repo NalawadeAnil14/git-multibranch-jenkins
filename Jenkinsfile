@@ -15,7 +15,7 @@ pipeline {
       }
 
       steps {
-        echo 'Hello'
+        echo 'Hello from fix file'
       }
     }
   }
